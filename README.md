@@ -1,16 +1,17 @@
 # pokemon_app
 
 Pokemon Application 
+[Full_Screen_Blue_Smartphone_Mockup_design_17](https://user-images.githubusercontent.com/46857727/133471413-7372028b-9e21-448f-9dce-f743cad8d09a.jpg)
 
 ## Requirements
-
-  cupertino_icons: ^1.0.2
+```
+cupertino_icons: ^1.0.2
   font_awesome_flutter: ^9.1.0
   responsive_builder: ^0.4.1
   hexcolor: ^2.0.5
   percent_indicator: ^3.0.1
-  url_launcher: ^6.0.10![Full_Screen_Blue_Smartphone_Mockup_design_17](https://user-images.githubusercontent.com/46857727/133471413-7372028b-9e21-448f-9dce-f743cad8d09a.jpg)
-
+  url_launcher: ^6.0.10!
+```
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
