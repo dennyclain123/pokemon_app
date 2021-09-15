@@ -1,7 +1,5 @@
 # pokemon_app
-
-Pokemon Application 
-[Full_Screen_Blue_Smartphone_Mockup_design_17](https://user-images.githubusercontent.com/46857727/133471413-7372028b-9e21-448f-9dce-f743cad8d09a.jpg)
+![Full_Screen_Blue_Smartphone_Mockup_design_17](https://user-images.githubusercontent.com/46857727/133472055-bd6f3af9-32f0-4946-af99-506bd84b7234.jpg)
 
 ## Requirements
 ```
