@@ -3,12 +3,11 @@
 
 ## Requirements
 ```
-cupertino_icons: ^1.0.2
-  font_awesome_flutter: ^9.1.0
-  responsive_builder: ^0.4.1
-  hexcolor: ^2.0.5
-  percent_indicator: ^3.0.1
-  url_launcher: ^6.0.10!
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  url_launcher: ^6.0.9
+  cached_network_image: ^3.1.0
+
 ```
 A few resources to get you started if this is your first Flutter project:
 
